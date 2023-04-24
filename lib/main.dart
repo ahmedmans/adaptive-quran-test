@@ -9,8 +9,8 @@ import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:go_router/go_router.dart';
 import 'package:provider/provider.dart';
 
-const flutterDevAccountId = 'UCgTbQmrJvMTE8Ro3VHPlBEQ';
-const youTubeApiKey = 'AIzaSyDjcIZQlEeGa3lp2cX-DfSQ6h4FCl3WksQ';
+const flutterDevAccountId = 'YOUR_ACCOUNT_ID';
+const youTubeApiKey = 'YOUR_YOUTUBE_API_KEY';
 
 final _router = GoRouter(
   routes: <RouteBase>[
